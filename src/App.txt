@@ -1,0 +1,41 @@
+/project-root
+|-- /public
+|   |-- index.html
+|-- /src
+|   |-- /components
+|   |   |-- /common
+|   |   |   |-- Navbar.js
+|   |   |   |-- Footer.js
+|   |   |-- /news
+|   |   |   |-- NewsList.js
+|   |   |   |-- NewsDetail.js
+|   |   |-- /destination
+|   |   |   |-- DestinationList.js
+|   |   |   |-- DestinationDetail.js
+|   |   |-- /blog
+|   |   |   |-- BlogList.js
+|   |   |   |-- BlogDetail.js
+|   |   |-- /contact
+|   |       |-- ContactForm.js
+|   |-- /layouts
+|   |   |-- NewsLayout.js
+|   |   |-- DestinationLayout.js
+|   |   |-- BlogLayout.js
+|   |   |-- ContactLayout.js
+|   |   |-- AuthLayout.js
+|   |-- /pages
+|   |   |-- NewsPage.js
+|   |   |-- DestinationPage.js
+|   |   |-- BlogPage.js
+|   |   |-- ContactPage.js
+|   |   |-- LoginPage.js
+|   |-- /services
+|   |   |-- api.js
+|   |-- /assets
+|   |   |-- /images
+|   |   |-- /styles
+|   |-- /utils
+|   |   |-- helpers.js
+|   |-- App.js
+|   |-- index.js
+|-- package.json>
